@@ -1,6 +1,9 @@
+Git commands
+-------------
+
 git init
 
-git config --global user.name "Prasad Polarapu"
+git config --global user.name "DevOps Training"
 git config --global user.email "devopstraining2015@gmail.com"
 
 git config --list
@@ -52,6 +55,7 @@ git commit -m "sample file" file1
 git status
 git log
 git push
+
 LOG's
 ---------
 git log
@@ -97,7 +101,8 @@ git push origin branch-name  (local to cenral repo)
 or
 git push path/of/c-repo branch-name 
 
-
+Linux commands
+==============
 
 TOUCH, CAT, VI
 -----------------------
