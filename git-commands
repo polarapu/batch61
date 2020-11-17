@@ -3,7 +3,7 @@ Git commands
 
 git init
 
-git config --global user.name "Prasad Polarapu"
+git config --global user.name "Prasad DevOps"
 git config --global user.email "devopstraining2015@gmail.com"
 
 git config --list
