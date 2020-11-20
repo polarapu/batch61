@@ -32,6 +32,7 @@ git status
 git commit -m "label"
 git status
 git log
+sample line1
 
 
 git reset HEAD file-name (staging to workspace)
