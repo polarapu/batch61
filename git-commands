@@ -9,6 +9,7 @@ git config --global user.email "devopstraining2015@gmail.com"
 git config --list
 Test line1
 touch file1
+testline2
 ls
 git status
 git add file1
